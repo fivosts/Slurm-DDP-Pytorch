@@ -1,0 +1,2 @@
+#!$(which bash)
+python ./src/main.py "$@"
